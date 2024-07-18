@@ -2,15 +2,31 @@
 
 [![Header](assets/header1.png)](https://github.com/Dexter49)
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/DanielTobiOnipe) &nbsp;
+<div style="display: flex; justify-content: center;">
+  <a href="https://twitter.com/DanielTobiOnipe">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" style="margin-right: 10px;">
+  </a>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-tobi-onipe/) &nbsp;
+  <a href="https://www.linkedin.com/in/daniel-tobi-onipe/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-right: 10px;">
+  </a>
 
-[![DEV](https://skillicons.dev/icons?i=devto)](https://dev.to/@BigDexter) &nbsp;
+  <a href="https://dev.to/@BigDexter">
+    <img src="https://skillicons.dev/icons?i=devto" alt="DEV" style="margin-right: 10px;">
+  </a>
 
-[![Behance](assets/behance1.svg)](https://behance.net/Dexter49) &nbsp;
+  <a href="https://behance.net/Dexter49">
+    <img src="assets/behance1.svg" alt="Behance" style="margin-right: 10px;">
+  </a>
 
-[![Dribbble](assets/dribbble1.svg)](https://dribbble.net/Dexter49)
+  <a href="https://dribbble.net/Dexter49">
+    <img src="assets/dribbble1.svg" alt="Dribbble">
+  </a>
+
+  <a href="https://www.linkedin.com/in/daniel-tobi-onipe/">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" style="margin-right: 10px;">
+  </a>
+</div>
 
 </div>
 
