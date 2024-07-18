@@ -6,27 +6,26 @@
   <a href="https://twitter.com/DanielTobiOnipe">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" style="margin-right: 10px;">
   </a>
-
   <a href="https://www.linkedin.com/in/daniel-tobi-onipe/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-right: 10px;">
   </a>
-
   <a href="https://dev.to/@BigDexter">
     <img src="https://skillicons.dev/icons?i=devto" alt="DEV" style="margin-right: 10px;">
   </a>
-
   <a href="https://behance.net/Dexter49">
     <img src="assets/behance1.svg" alt="Behance" style="margin-right: 10px;">
   </a>
-
   <a href="https://dribbble.net/Dexter49">
-    <img src="assets/dribbble1.svg" alt="Dribbble">
+    <img src="assets/dribbble1.svg" alt="Dribbble" style="margin-right: 10px;">
   </a>
-
-  <a href="https://www.linkedin.com/in/daniel-tobi-onipe/">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" style="margin-right: 10px;">
+  <a href="mailto:dexterousguru49@gmail.com?subject=Hello%20Daniel,%20From%20Github">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="margin-right: 10px;">
   </a>
 </div>
+
+![](https://komarev.com/ghpvc/?username=Dexter49&abbreviated=true&label=Profile%20Views&color=blue&style=for-the-badge)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dexter49" alt="Dexter49" /></a> </p>
 
 </div>
 
@@ -44,7 +43,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Next.js, React, Flutter, Node.js, JavaScript, TypeScript, Solidity, AWS, GCP, Figma, Adobe XD](https://skillicons.dev/icons?i=next,react,flutter,nodejs,js,ts,solidity,aws,gcp,figma,xd)](https://skillicons.dev)
+[![Next.js, React, Flutter, Node.js, JavaScript, TypeScript, Solidity, TailwindCSS, AWS, GCP, Figma, Adobe XD](https://skillicons.dev/icons?i=next,react,flutter,nodejs,js,ts,solidity,tailwind,aws,gcp,figma,xd)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
@@ -55,3 +54,13 @@
 </p>
 
 ## 🏆 My Stats:
+
+<p>
+    <img height=200 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dexter49&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=200 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter49&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexter49&theme=dark" alt="dexter49" />
+</p>
+
+<!--START_SECTION:Wakatime-->
+
+<!--END_SECTION:Wakatime-->
