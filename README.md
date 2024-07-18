@@ -30,4 +30,12 @@
 
 [![Next.js, React, Flutter, Node.js, JavaScript, TypeScript, Solidity, AWS, GCP, Figma, Adobe XD](https://skillicons.dev/icons?i=next,react,flutter,nodejs,js,ts,solidity,aws,gcp,figma,xd)](https://skillicons.dev)
 
+## 📖 Read My Blogs:
 
+<p>
+    <a target="_blank"href="https://dev.to/bigdexter"><img alt="DEV" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://dexter.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://medium.com/@BigDexter"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+
+## 🏆 My Stats:
