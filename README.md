@@ -60,7 +60,3 @@
     <img height=200 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter49&layout=compact&theme=dark" />&nbsp;&nbsp;
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexter49&theme=dark" alt="dexter49" />
 </p>
-
-<!--START_SECTION:Wakatime-->
-
-<!--END_SECTION:Wakatime-->
