@@ -2,6 +2,8 @@
 
 [![Header](assets/header1.png)](https://github.com/Dexter49)
 
+![](https://komarev.com/ghpvc/?username=Dexter49&abbreviated=true&label=Profile%20Views&color=blue&style=for-the-badge)
+
 <div style="display: flex; justify-content: center;">
   <a href="https://twitter.com/DanielTobiOnipe">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" style="margin-right: 10px;">
@@ -22,8 +24,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="margin-right: 10px;">
   </a>
 </div>
-
-![](https://komarev.com/ghpvc/?username=Dexter49&abbreviated=true&label=Profile%20Views&color=blue&style=for-the-badge)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dexter49" alt="Dexter49" /></a> </p>
 
