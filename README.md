@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Dexter49&abbreviated=true&label=Profile%20Views&color=blue&style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/c4ff593d-c68f-4cf4-911d-c62ed6fc4b99.svg?style=for-the-badge)](https://wakatime.com/@c4ff593d-c68f-4cf4-911d-c62ed6fc4b99)
 
-[![coding-activity](https://wakatime.com/share/@Dexter49/b2657667-6bfa-4df8-9502-15c4295a034d.svg)](https://wakatime.com/share/@Dexter49/b2657667-6bfa-4df8-9502-15c4295a034d)
+[![coding-activity](https://wakatime.com/share/@Dexter49/752788e8-81df-4688-808c-d9d6ef17e414.svg)](https://wakatime.com/share/@Dexter49/752788e8-81df-4688-808c-d9d6ef17e414)
 
 <div style="display: flex; justify-content: center;">
   <a href="https://twitter.com/DanielTobiOnipe">
