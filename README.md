@@ -3,6 +3,9 @@
 [![Header](assets/header1.png)](https://github.com/Dexter49)
 
 ![](https://komarev.com/ghpvc/?username=Dexter49&abbreviated=true&label=Profile%20Views&color=blue&style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/c4ff593d-c68f-4cf4-911d-c62ed6fc4b99.svg?style=for-the-badge)](https://wakatime.com/@c4ff593d-c68f-4cf4-911d-c62ed6fc4b99)
+
+[![coding-activity](https://wakatime.com/share/@Dexter49/b2657667-6bfa-4df8-9502-15c4295a034d.svg)](https://wakatime.com/share/@Dexter49/b2657667-6bfa-4df8-9502-15c4295a034d)
 
 <div style="display: flex; justify-content: center;">
   <a href="https://twitter.com/DanielTobiOnipe">
@@ -55,8 +58,12 @@
 
 ## 🏆 My Stats:
 
+[![wakatime-charts](https://wakatime.com/share/@Dexter49/15b7be22-026f-4287-a781-31b23ef05fb0.svg)](https://wakatime.com/share/@Dexter49/15b7be22-026f-4287-a781-31b23ef05fb0)
+
 <p>
     <img height=200 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dexter49&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=200 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter49&layout=compact&theme=dark" />&nbsp;&nbsp;
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexter49&theme=dark" alt="dexter49" />
 </p>
+
+[![wakatime-languages](https://wakatime.com/share/@Dexter49/07871f27-3bc8-4bc3-b877-58eb64bdf99a.svg)](https://wakatime.com/share/@Dexter49/07871f27-3bc8-4bc3-b877-58eb64bdf99a)
